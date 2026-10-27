@@ -25,7 +25,7 @@ Ve a [Releases](../../releases) y descarga `RamWidget.exe`.
 
 ## Antivirus
 
-Algunos antivirus pueden marcarlo al primer uso por la forma en que gestiona la memoria y los procesos. Es un falso positivo. Análisis en VirusTotal: [enlace]
+Algunos antivirus pueden marcarlo al primer uso por la forma en que gestiona la memoria y los procesos. Es un falso positivo. Análisis en VirusTotal: https://www.virustotal.com/gui/file/052c35c4d532a478fe6e8176b1e5b2b4fd86c3c0034d5b152a0336ecce409857
 
 ## Requisitos
 
