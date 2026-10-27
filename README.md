@@ -33,4 +33,4 @@ Windows 10 u 11.
 
 ## Autor
 
-Santiago De Castro, desarrollador freelance. Construyo agentes de IA y automatizaciones: [s-dcm.com](https://s-dcm.com)
+[s-dcm.com](https://s-dcm.com)
